@@ -10,9 +10,11 @@ Permissions
  Modification
  Distribution
  Private use
+ 
 Limitations
  Liability
  Warranty
+ 
 Conditions
  License and copyright notice
 
